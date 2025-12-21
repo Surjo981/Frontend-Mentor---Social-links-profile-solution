@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links 🔗
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [SSolution ](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
+- Live Site URL: [Live Site](https://surjo.pages.dev/Frontend-Mentor-projects/social-links-profile-main/)
 
 ## My process ✨
 
