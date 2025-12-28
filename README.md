@@ -44,7 +44,7 @@ Users should be able to:
 
 - CSS custom properties
 - Flexbox
-- Used CSS clamp() function
+- Used CSS `clamp()` function
 
 ## Author 👨‍💻
 
